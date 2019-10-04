@@ -1,0 +1,6 @@
+@author Sonal Ranjit <sonal.ranjit3@gmail.com> [http://sonalranjit.com]
+@doc Functions for calculating and converting velocities.
+@reference from <a href="http://shop.oreilly.com/product/0636920056690.do"
+>Introducing Erlang</a>, O'Reilly Media, Inc., 2017.
+@copyright 2017 by Simon St.Laurent
+@version 0.1
